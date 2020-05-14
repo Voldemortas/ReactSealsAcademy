@@ -1,0 +1,28 @@
+{
+    "projectName": "ReactSealsAcademy",
+    "workspaceID": "rnv",
+    "paths": {
+        "appConfigsDir": "./appConfigs",
+        "platformTemplatesDir": "$RNV_HOME/platformTemplates",
+        "entryDir": "./",
+        "platformAssetsDir": "./platformAssets",
+        "platformBuildsDir": "./platformBuilds",
+        "projectConfigDir": "./projectConfig"
+    },
+    "defaults": {
+        "title": "React Seals Academy",
+        "id": "com.simanaitis.reactsealsacademy",
+        "supportedPlatforms": [
+            "android",
+            "web"
+        ]
+    },
+    "templates": {
+        "renative-template-hello-world": {
+            "version": "0.29.0"
+        }
+    },
+    "currentTemplate": "renative-template-hello-world",
+    "isNew": true,
+    "isMonorepo": false
+}
